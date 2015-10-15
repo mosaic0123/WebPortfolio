@@ -1,0 +1,4240 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa15-cs242/tgao6">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/AppDelegate.swift</name>
+<size>2288</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Application.ipa</name>
+<size>46078553</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Application.ipa.zip</name>
+<size>46022527</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Base.lproj</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Base.lproj/LaunchScreen.xib</name>
+<size>3708</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Base.lproj/Main.storyboard</name>
+<size>27321</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/EntryView.swift</name>
+<size>416</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/EntryViewController.swift</name>
+<size>14517</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/HobbyViewController.swift</name>
+<size>10035</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/1992.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/1992.imageset/1992_round.pdf</name>
+<size>55548</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/1992.imageset/Contents.json</name>
+<size>159</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2005.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2005.imageset/2005.pdf</name>
+<size>56482</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2005.imageset/Contents.json</name>
+<size>153</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2011.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2011.imageset/2011_round.pdf</name>
+<size>54898</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2011.imageset/Contents.json</name>
+<size>159</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2012.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2012.imageset/2012.pdf</name>
+<size>56099</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2012.imageset/Contents.json</name>
+<size>153</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2014.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2014.imageset/2014.pdf</name>
+<size>55508</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2014.imageset/Contents.json</name>
+<size>153</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2015.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2015.imageset/2015.pdf</name>
+<size>55808</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/2015.imageset/Contents.json</name>
+<size>153</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/ABI.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/ABI.imageset/AbinBev-Eagle-287x300.jpg</name>
+<size>13541</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/ABI.imageset/Contents.json</name>
+<size>318</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Contents.json</name>
+<size>1524</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-40.png</name>
+<size>4383</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-40@2x.png</name>
+<size>14774</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-40@3x.png</name>
+<size>29331</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-60@2x.png</name>
+<size>29331</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-60@3x.png</name>
+<size>58492</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-76.png</name>
+<size>13499</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-76@2x.png</name>
+<size>43673</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-Small.png</name>
+<size>2484</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-Small@2x.png</name>
+<size>8473</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-Small@3x.png</name>
+<size>17076</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/america.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/america.imageset/Contents.json</name>
+<size>156</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/america.imageset/america.pdf</name>
+<size>25947</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/arms.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/arms.imageset/Contents.json</name>
+<size>153</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/arms.imageset/arms.pdf</name>
+<size>54384</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/art.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/art.imageset/Contents.json</name>
+<size>154</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/art.imageset/art-3.pdf</name>
+<size>24553</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox1.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox1.imageset/Contents.json</name>
+<size>308</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox1.imageset/articlebox1.jpg</name>
+<size>295174</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox2.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox2.imageset/Contents.json</name>
+<size>308</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox2.imageset/articlebox2.jpg</name>
+<size>374066</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox3.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox3.imageset/Contents.json</name>
+<size>308</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox3.imageset/articlebox3.jpg</name>
+<size>784722</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox4.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox4.imageset/Contents.json</name>
+<size>308</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox4.imageset/articlebox4.jpg</name>
+<size>333925</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc1.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc1.imageset/Contents.json</name>
+<size>301</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc1.imageset/asc1.png</name>
+<size>746191</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc2.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc2.imageset/Contents.json</name>
+<size>301</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc2.imageset/asc2.png</name>
+<size>1232561</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc3.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc3.imageset/Contents.json</name>
+<size>301</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc3.imageset/asc3.png</name>
+<size>601731</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc4.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc4.imageset/Contents.json</name>
+<size>301</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc4.imageset/asc4.png</name>
+<size>347399</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/aurora-green.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/aurora-green.imageset/Contents.json</name>
+<size>309</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/aurora-green.imageset/aurora-green.png</name>
+<size>1285530</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/background.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/background.imageset/Contents.json</name>
+<size>159</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/background.imageset/background.pdf</name>
+<size>200207</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/balloon.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/balloon.imageset/Contents.json</name>
+<size>160</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/balloon.imageset/menu-baloon.pdf</name>
+<size>53654</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/beach-yellow.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/beach-yellow.imageset/Contents.json</name>
+<size>309</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/beach-yellow.imageset/beach-yellow.png</name>
+<size>1918211</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/beijing.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/beijing.imageset/Contents.json</name>
+<size>156</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/beijing.imageset/beijing.pdf</name>
+<size>33200</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/china.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/china.imageset/Contents.json</name>
+<size>154</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/china.imageset/china.pdf</name>
+<size>46069</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/circle.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/circle.imageset/Contents.json</name>
+<size>161</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/circle.imageset/outer_circle.pdf</name>
+<size>34767</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/circus.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/circus.imageset/Contents.json</name>
+<size>155</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/circus.imageset/circus.pdf</name>
+<size>52473</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-blue.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-blue.imageset/Contents.json</name>
+<size>159</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-blue.imageset/close-blue.pdf</name>
+<size>47664</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-brown.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-brown.imageset/Contents.json</name>
+<size>160</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-brown.imageset/close-brown.pdf</name>
+<size>22345</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-green.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-green.imageset/Contents.json</name>
+<size>160</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-green.imageset/close-green.pdf</name>
+<size>46841</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-grey.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-grey.imageset/Contents.json</name>
+<size>159</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-grey.imageset/close-gray.pdf</name>
+<size>18211</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-orange.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-orange.imageset/Contents.json</name>
+<size>161</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-orange.imageset/close-orange.pdf</name>
+<size>21101</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-pink.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-pink.imageset/Contents.json</name>
+<size>159</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-pink.imageset/close-pink.pdf</name>
+<size>47123</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-purple.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-purple.imageset/Contents.json</name>
+<size>309</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-purple.imageset/close-purple.pdf</name>
+<size>48102</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-red.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-red.imageset/Contents.json</name>
+<size>158</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-red.imageset/close-red.pdf</name>
+<size>49676</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-white.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-white.imageset/Contents.json</name>
+<size>160</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-white.imageset/close-white.pdf</name>
+<size>12818</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-yellow.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-yellow.imageset/Contents.json</name>
+<size>161</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-yellow.imageset/close-yellow.pdf</name>
+<size>44910</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/computer.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/computer.imageset/Contents.json</name>
+<size>305</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/computer.imageset/computer.pdf</name>
+<size>47685</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/eoh.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/eoh.imageset/Contents.json</name>
+<size>300</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/eoh.imageset/eoh.png</name>
+<size>1331837</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro1.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro1.imageset/Contents.json</name>
+<size>302</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro1.imageset/foro1.png</name>
+<size>140395</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro2.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro2.imageset/Contents.json</name>
+<size>302</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro2.imageset/foro2.png</name>
+<size>118635</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro3.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro3.imageset/Contents.json</name>
+<size>302</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro3.imageset/foro3.png</name>
+<size>233396</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro4.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro4.imageset/Contents.json</name>
+<size>302</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro4.imageset/foro4.png</name>
+<size>78848</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/future.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/future.imageset/Contents.json</name>
+<size>303</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/future.imageset/future.pdf</name>
+<size>56233</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/illinois.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/illinois.imageset/Contents.json</name>
+<size>305</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/illinois.imageset/illinois.pdf</name>
+<size>100281</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/life.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/life.imageset/Contents.json</name>
+<size>303</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/life.imageset/life-3.png</name>
+<size>7947366</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu-white.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu-white.imageset/Contents.json</name>
+<size>307</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu-white.imageset/menu-white.pdf</name>
+<size>38179</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu.imageset/Contents.json</name>
+<size>153</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu.imageset/menu.pdf</name>
+<size>16120</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/mountain-blue.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/mountain-blue.imageset/Contents.json</name>
+<size>312</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/mountain-blue.imageset/mountain-blue-1.png</name>
+<size>1272390</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/seattle.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/seattle.imageset/Contents.json</name>
+<size>304</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/seattle.imageset/seattle.pdf</name>
+<size>53057</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/self_button.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/self_button.imageset/Contents.json</name>
+<size>308</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/self_button.imageset/self_button.png</name>
+<size>1595961</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/stand.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/stand.imageset/Contents.json</name>
+<size>154</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/stand.imageset/stand.pdf</name>
+<size>22584</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/start.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/start.imageset/Contents.json</name>
+<size>154</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/start.imageset/start.pdf</name>
+<size>46833</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/swift.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/swift.imageset/Contents.json</name>
+<size>302</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/swift.imageset/swift.pdf</name>
+<size>85445</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/underwater-mag.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/underwater-mag.imageset/Contents.json</name>
+<size>311</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/underwater-mag.imageset/underwater-mag.png</name>
+<size>7352671</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web1.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web1.imageset/Contents.json</name>
+<size>301</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web1.imageset/web1.png</name>
+<size>1465331</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web2.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web2.imageset/Contents.json</name>
+<size>301</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web2.imageset/web2.png</name>
+<size>421461</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web3.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web3.imageset/Contents.json</name>
+<size>301</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/web3.imageset/web3.png</name>
+<size>55134</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/yahoo.imageset</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/yahoo.imageset/Contents.json</name>
+<size>302</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Images.xcassets/yahoo.imageset/yahoo.pdf</name>
+<size>357126</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Info.plist</name>
+<size>1161</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/LifeTableViewCell.swift</name>
+<size>714</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/LifeTableViewController.swift</name>
+<size>7891</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/MenuViewController.swift</name>
+<size>4840</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/ProjectCollectionViewCell.swift</name>
+<size>306</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/ProjectCollectionViewController.swift</name>
+<size>16817</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/SkillViewController.swift</name>
+<size>8856</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao/Tingting Gao.ipa</name>
+<size>45779190</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/project.pbxproj</name>
+<size>19927</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/contents.xcworkspacedata</name>
+<size>156</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/xcuserdata</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/xcuserdata/Mosaic.xcuserdatad</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/xcuserdata/Mosaic.xcuserdatad/UserInterfaceState.xcuserstate</name>
+<size>44378</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/xcuserdata/Mosaic.xcuserdatad/WorkspaceSettings.xcsettings</name>
+<size>332</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcdebugger</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist</name>
+<size>2152</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcschemes</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcschemes/Application.xcscheme</name>
+<size>4296</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcschemes/xcschememanagement.plist</name>
+<size>573</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/TingtingGao/TingtingGaoTests</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGaoTests/Info.plist</name>
+<size>745</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/TingtingGao/TingtingGaoTests/TingtingGaoTests.swift</name>
+<size>914</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/.idea</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/.idea/forum.iml</name>
+<size>284</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/.idea/misc.xml</name>
+<size>877</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/.idea/modules.xml</name>
+<size>262</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/.idea/workspace.xml</name>
+<size>9488</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/db.sqlite3</name>
+<size>12778496</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/forum</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/forum/__init__.py</name>
+<size>0</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/forum/__pycache__</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/forum/settings.py</name>
+<size>2685</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/forum/urls.py</name>
+<size>801</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/forum/wsgi.py</name>
+<size>387</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/get_data.py</name>
+<size>4835</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/manage.py</name>
+<size>248</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/reddit</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/__init__.py</name>
+<size>0</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/reddit/__pycache__</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/admin.py</name>
+<size>63</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/reddit/migrations</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/migrations/0001_initial.py</name>
+<size>1766</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/migrations/0002_auto_20150825_1858.py</name>
+<size>3323</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/migrations/0003_auto_20150901_2128.py</name>
+<size>569</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/migrations/__init__.py</name>
+<size>0</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/reddit/migrations/__pycache__</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/models.py</name>
+<size>1698</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/reddit/templates</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/forum/reddit/templates/reddit</name>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/templates/reddit/base.html</name>
+<size>950</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/templates/reddit/index.html</name>
+<size>1164</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/templates/reddit/post.html</name>
+<size>1119</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/tests.py</name>
+<size>60</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/urls.py</name>
+<size>185</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/forum/reddit/views.py</name>
+<size>920</size>
+<commit
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0.5</name>
+<commit
+   revision="5446">
+<author>tgao6</author>
+<date>2015-09-24T00:33:21.770482Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>206</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess</name>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/.classpath</name>
+<size>422</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess/.settings</name>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess/Image Assets</name>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Image Assets/Bishop.png</name>
+<size>1074</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Image Assets/Dark.png</name>
+<size>1790</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Image Assets/King.png</name>
+<size>870</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Image Assets/Knight.png</name>
+<size>1752</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Image Assets/Light.png</name>
+<size>1757</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Image Assets/Pawn.png</name>
+<size>1224</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Image Assets/Queen.png</name>
+<size>1144</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/Image Assets/Rook.png</name>
+<size>653</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess/src</name>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess/src/ChessBoard</name>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/Bishop.java</name>
+<size>1866</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/ChessBoard.java</name>
+<size>3071</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/ChessBoardTest.java</name>
+<size>3798</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/ChessPiece.java</name>
+<size>1991</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/ChessSet.java</name>
+<size>2741</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/Hopper.java</name>
+<size>882</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/King.java</name>
+<size>1139</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/Knight.java</name>
+<size>1494</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/Pawn.java</name>
+<size>1601</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/Queen.java</name>
+<size>3033</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/Rook.java</name>
+<size>1525</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/ChessBoard/Wazir.java</name>
+<size>751</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/Chess/src/GameInterface</name>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/src/GameInterface/GameBoard.java</name>
+<size>3210</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess/testGUI.txt</name>
+<size>438</size>
+<commit
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/.classpath</name>
+<size>422</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/.project</name>
+<size>364</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/.settings</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/Image Assets</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/Bishop.png</name>
+<size>1074</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/Dark.png</name>
+<size>1790</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/King.png</name>
+<size>870</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/Knight.png</name>
+<size>1752</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/Light.png</name>
+<size>1757</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/Pawn.png</name>
+<size>1224</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/Queen.png</name>
+<size>1144</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/Rook.png</name>
+<size>653</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/bishop-black.png</name>
+<size>1085</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/bishop-white.png</name>
+<size>1186</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/king-black.png</name>
+<size>1426</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/king-white.png</name>
+<size>1610</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/knight-black.png</name>
+<size>1253</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/knight-white.png</name>
+<size>1379</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/pawn-black.png</name>
+<size>1010</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/pawn-white.png</name>
+<size>1179</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/queen-black.png</name>
+<size>1352</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/queen-white.png</name>
+<size>1509</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/rook-black.png</name>
+<size>452</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/Image Assets/rook-white.png</name>
+<size>480</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/ManualTest.pdf</name>
+<size>558775</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/bin</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Bishop.png</name>
+<size>1074</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/bin/Controller</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Controller/GameController.class</name>
+<size>6991</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Dark.png</name>
+<size>1790</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/King.png</name>
+<size>870</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Knight.png</name>
+<size>1752</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Light.png</name>
+<size>1757</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/bin/Model</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Bishop.class</name>
+<size>2345</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/ChessBoard.class</name>
+<size>2933</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/ChessBoardTest.class</name>
+<size>3581</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/ChessColor.class</name>
+<size>938</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/ChessPiece.class</name>
+<size>2071</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/ChessSet.class</name>
+<size>2288</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Competition.class</name>
+<size>629</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Game.class</name>
+<size>249</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Hopper.class</name>
+<size>1645</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/King.class</name>
+<size>1919</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Knight.class</name>
+<size>1783</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/LastMove.class</name>
+<size>616</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Pawn.class</name>
+<size>2142</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Player.class</name>
+<size>895</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Queen.class</name>
+<size>3027</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Rook.class</name>
+<size>2309</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Model/Wazir.class</name>
+<size>1502</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Pawn.png</name>
+<size>1224</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Queen.png</name>
+<size>1144</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/Rook.png</name>
+<size>653</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/bin/View</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/View/BoardView.class</name>
+<size>5137</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/bin/View/GamePanel.class</name>
+<size>4905</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/Controller</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Controller/GameController.java</name>
+<size>8886</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/Model</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Bishop.java</name>
+<size>2109</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/ChessBoard.java</name>
+<size>3782</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/ChessBoardTest.java</name>
+<size>3793</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/ChessColor.java</name>
+<size>58</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/ChessPiece.java</name>
+<size>1733</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/ChessSet.java</name>
+<size>2736</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Competition.java</name>
+<size>426</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Game.java</name>
+<size>39</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Hopper.java</name>
+<size>877</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/King.java</name>
+<size>1387</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Knight.java</name>
+<size>1739</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/LastMove.java</name>
+<size>433</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Pawn.java</name>
+<size>1882</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Player.java</name>
+<size>486</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Queen.java</name>
+<size>3274</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Rook.java</name>
+<size>1766</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/Model/Wazir.java</name>
+<size>746</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Chess/src/View</name>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/View/BoardView.java</name>
+<size>5935</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/src/View/GamePanel.java</name>
+<size>5070</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess/testGUI.txt</name>
+<size>438</size>
+<commit
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/CSAir</name>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/CSAir.py</name>
+<size>121</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/Edge.py</name>
+<size>141</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/Graph.py</name>
+<size>6795</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/Vertex.py</name>
+<size>114</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/test_data.json</name>
+<size>1204</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/test_edge.py</name>
+<size>220</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir/test_graph.py</name>
+<size>1519</size>
+<commit
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/CSAir</name>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/CSAir.py</name>
+<size>283</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/Edge.py</name>
+<size>141</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/Graph.py</name>
+<size>21544</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/Vertex.py</name>
+<size>143</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/flight_network.json</name>
+<size>1969</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/test_data.json</name>
+<size>1204</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/test_edge.py</name>
+<size>220</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CSAir/test_graph.py</name>
+<size>2872</size>
+<commit
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="7903">
+<author>tgao6</author>
+<date>2015-10-15T15:32:35.375610Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="1370">
+<author>tgao6</author>
+<date>2015-08-31T00:50:22.489142Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>303</size>
+<commit
+   revision="1370">
+<author>tgao6</author>
+<date>2015-08-31T00:50:22.489142Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="1370">
+<author>tgao6</author>
+<date>2015-08-31T00:50:22.489142Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="1370">
+<author>tgao6</author>
+<date>2015-08-31T00:50:22.489142Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>11862</size>
+<commit
+   revision="1370">
+<author>tgao6</author>
+<date>2015-08-31T00:50:22.489142Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="1370">
+<author>tgao6</author>
+<date>2015-08-31T00:50:22.489142Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>4217</size>
+<commit
+   revision="1370">
+<author>tgao6</author>
+<date>2015-08-31T00:50:22.489142Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>grocery</name>
+<commit
+   revision="687">
+<author>tgao6</author>
+<date>2015-08-28T03:55:36.190717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list1.txt</name>
+<size>56</size>
+<commit
+   revision="677">
+<author>tgao6</author>
+<date>2015-08-28T03:41:38.492054Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list2.txt</name>
+<size>76</size>
+<commit
+   revision="686">
+<author>tgao6</author>
+<date>2015-08-28T03:52:13.554975Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list3.txt</name>
+<size>23</size>
+<commit
+   revision="687">
+<author>tgao6</author>
+<date>2015-08-28T03:55:36.190717Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tokyo.txt</name>
+<size>5</size>
+<commit
+   revision="5444">
+<author>tgao6</author>
+<date>2015-09-24T00:28:39.792603Z</date>
+</commit>
+</entry>
+</list>
+</lists>

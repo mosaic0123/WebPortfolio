@@ -1,0 +1,216 @@
+{% load url from future %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <title>CS 242 - Web Portfolio</title>
+
+    <!-- Bootstrap Core CSS -->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/portfolio">CS 242 Fall 2015</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <!-- <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#">About</a>
+                    </li>
+                    <li>
+                        <a href="#">Services</a>
+                    </li>
+                    <li>
+                        <a href="#">Contact</a>
+                    </li>
+                </ul>
+            </div> -->
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    {% block content %}{% endblock %}
+    <!-- Page Content -->
+    <!-- <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>
+                </h3>
+            </div>
+        </div> -->
+
+        <!-- Page Header -->
+<!--         <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header"> Web Portfolio
+                    <small>Tingting Gao</small>
+                </h1>
+            </div>
+        </div> -->
+        <!-- /.row -->
+
+        <!-- Projects Row -->
+        <!-- <div class="row">
+            <div class="col-md-6 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://dummyimage.com/700x400/f89b30/ffffff&text=Getting+Started" alt="">
+                </a>
+                <h3>
+                    <a href="#">Bring Your Code</a>
+                </h3>
+                <p>A piece of code that written that is at least 400 lines long brought to discussion section.</p>
+            </div>
+            <div class="col-md-6 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://dummyimage.com/700x400/75b823/ffffff&text=Chess+Game" alt="">
+                </a>
+                <h3>
+                    <a href="#">Chess</a>
+                </h3>
+                <p>A chess game with graphical game interface built from scratch in Java.</p>
+            </div>
+        </div> -->
+        <!-- /.row -->
+
+        <!-- <hr> -->
+        
+        <!-- Projects Row -->
+        <!-- <div class="row">
+            <div class="col-md-6 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://dummyimage.com/700x400/27ABEC/ffffff&text=CS+Airline" alt="">
+                </a>
+                <h3>
+                    <a href="#">CS Air</a>
+                </h3>
+                <p>An airline ticketing system to look up, edit and display flight routes.</p>
+            </div>
+            <div class="col-md-6 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://dummyimage.com/700x400/8a3db3/ffffff&text=Web+Portfolio" alt="">
+                </a>
+                <h3>
+                    <a href="#">Portfolio</a>
+                </h3>
+                <p>A web application written in Django to showcase all previous projects.</p>
+            </div>
+        </div> -->
+        <!-- /.row -->
+
+        <!-- Projects Row -->
+<!--         <div class="row">
+            <div class="col-md-6 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                </a>
+                <h3>
+                    <a href="#">Project Five</a>
+                </h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            </div>
+            <div class="col-md-6 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                </a>
+                <h3>
+                    <a href="#">Project Six</a>
+                </h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+            </div>
+        </div> -->
+        <!-- /.row -->
+
+        <!-- <hr> -->
+
+        <!-- Pagination -->
+<!--         <div class="row text-center">
+            <div class="col-lg-12">
+                <ul class="pagination">
+                    <li>
+                        <a href="#">&laquo;</a>
+                    </li>
+                    <li class="active">
+                        <a href="#">1</a>
+                    </li>
+                    <li>
+                        <a href="#">2</a>
+                    </li>
+                    <li>
+                        <a href="#">3</a>
+                    </li>
+                    <li>
+                        <a href="#">4</a>
+                    </li>
+                    <li>
+                        <a href="#">5</a>
+                    </li>
+                    <li>
+                        <a href="#">&raquo;</a>
+                    </li>
+                </ul>
+            </div>
+        </div> -->
+        <!-- /.row -->
+
+
+
+        <!-- Footer -->
+<!--         <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>CS 242 - Fall 2015</p>
+                </div>
+            </div>
+            
+        </footer> -->
+
+    <!-- </div> -->
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

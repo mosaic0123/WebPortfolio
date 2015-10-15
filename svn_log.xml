@@ -1,0 +1,1890 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7903">
+<author>tgao6</author>
+<date>2015-10-15T15:32:35.375610Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment3.0</path>
+</paths>
+<msg>Creating folder for Assignment3.0</msg>
+</logentry>
+<logentry
+   revision="7220">
+<author>tgao6</author>
+<date>2015-10-08T20:50:24.019012Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/__init__.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/test_graph.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/CSAir.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/Graph.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/test_edge.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/Edge.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/flight_network.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment2.1/CSAir</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/test_data.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.1/CSAir/Vertex.py</path>
+</paths>
+<msg>aaaa</msg>
+</logentry>
+<logentry
+   revision="7218">
+<author>tgao6</author>
+<date>2015-10-08T20:48:09.090903Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment2.1</path>
+</paths>
+<msg>aaa</msg>
+</logentry>
+<logentry
+   revision="6569">
+<author>tgao6</author>
+<date>2015-10-01T21:20:55.128312Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/test_graph.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/CSAir.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/Graph.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/test_edge.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/Edge.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment2.0</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment2.0/CSAir</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/test_data.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/Vertex.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment2.0/CSAir/__init__.py</path>
+</paths>
+<msg>aa</msg>
+</logentry>
+<logentry
+   revision="5766">
+<author>tgao6</author>
+<date>2015-09-24T22:27:04.865388Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/ChessBoard.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/src</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/ChessSet.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Queen.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/ChessBoardTest.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/ChessSet.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Knight.class</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/src/View</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Wazir.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/King.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/LastMove.class</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/bin</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Wazir.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/View/GamePanel.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Bishop.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Knight.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/King.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Game.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/King.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/ManualTest.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Game.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/knight-black.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/ChessPiece.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/bishop-white.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Pawn.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/king-white.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/King.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Pawn.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/testGUI.txt</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Light.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Player.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Hopper.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Controller/GameController.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/pawn-black.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/View/BoardView.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/rook-black.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/.settings</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/bin/View</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/queen-white.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/ChessBoard.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Light.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Competition.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/View/BoardView.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Competition.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Player.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Queen.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/ChessColor.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Knight.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/View/GamePanel.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Bishop.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Queen.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/.project</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Rook.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/bishop-black.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/knight-white.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/king-black.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Controller</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/Knight.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/Model/LastMove.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Rook.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Queen.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Rook.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Dark.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/Hopper.class</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/src/Controller</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/pawn-white.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Dark.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Controller/GameController.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/queen-black.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/bin/Model/ChessColor.class</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/rook-white.png</path>
+</paths>
+<msg>aa</msg>
+</logentry>
+<logentry
+   revision="5764">
+<author>tgao6</author>
+<date>2015-09-24T22:24:30.387572Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/tgao6/Assignment1.2/Chess</path>
+</paths>
+<msg>delete</msg>
+</logentry>
+<logentry
+   revision="5457">
+<author>tgao6</author>
+<date>2015-09-24T00:48:29.734073Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Rook.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Queen.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Dark.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Bishop.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Knight.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Pawn.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/Light.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Image Assets/King.png</path>
+</paths>
+<msg>fuck</msg>
+</logentry>
+<logentry
+   revision="5456">
+<author>tgao6</author>
+<date>2015-09-24T00:47:39.367755Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/GameInterface/GameBoard.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/src</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/Rook.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/ChessSet.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/Knight.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/King.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/Wazir.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess/src/GameInterface</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/src/ChessBoard/Hopper.java</path>
+</paths>
+<msg>fuck</msg>
+</logentry>
+<logentry
+   revision="5455">
+<author>tgao6</author>
+<date>2015-09-24T00:47:06.885669Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/testGUI.txt</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.2/Chess/Doxyfile</path>
+</paths>
+<msg>fuck </msg>
+</logentry>
+<logentry
+   revision="5453">
+<author>tgao6</author>
+<date>2015-09-24T00:43:28.857635Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2/Chess</path>
+</paths>
+<msg>fuck you </msg>
+</logentry>
+<logentry
+   revision="5449">
+<author>tgao6</author>
+<date>2015-09-24T00:34:56.417508Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.2</path>
+</paths>
+<msg>fuck svn</msg>
+</logentry>
+<logentry
+   revision="5446">
+<author>tgao6</author>
+<date>2015-09-24T00:33:21.770482Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0.5</path>
+</paths>
+<msg>fuc</msg>
+</logentry>
+<logentry
+   revision="5445">
+<author>tgao6</author>
+<date>2015-09-24T00:30:02.368924Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/src</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Pawn.java</path>
+<path
+   kind="dir"
+   action="R">/tgao6/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Light.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Knight.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/King.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Knight.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Bishop.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/.project</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Wazir.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/King.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/src/GameInterface</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Hopper.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/.project</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Pawn.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Rook.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/.classpath</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Queen.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/testGUI.txt</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Rook.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessSet.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Queen.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Dark.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/.settings</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/GameInterface/GameBoard.java</path>
+</paths>
+<msg>fff</msg>
+</logentry>
+<logentry
+   revision="5444">
+<author>tgao6</author>
+<date>2015-09-24T00:28:39.792603Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/tokyo.txt</path>
+</paths>
+<msg>hi</msg>
+</logentry>
+<logentry
+   revision="4659">
+<author>tgao6</author>
+<date>2015-09-17T23:27:35.974875Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/testGUI.txt</path>
+</paths>
+<msg>hi~</msg>
+</logentry>
+<logentry
+   revision="4655">
+<author>tgao6</author>
+<date>2015-09-17T23:09:49.374804Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/testGUI.txt</path>
+</paths>
+<msg>blabla</msg>
+</logentry>
+<logentry
+   revision="4631">
+<author>tgao6</author>
+<date>2015-09-17T22:35:50.162602Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Queen.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Dark.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Bishop.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Knight.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Pawn.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Light.png</path>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/King.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/src/GameInterface</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Image Assets/Rook.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/GameInterface/GameBoard.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/Doxyfile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4625">
+<author>tgao6</author>
+<date>2015-09-17T22:31:52.968061Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4567">
+<author>tgao6</author>
+<date>2015-09-17T20:52:15.803148Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Knight.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/King.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Rook.java</path>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Wazir.java</path>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Hopper.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/Queen.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3402">
+<author>tgao6</author>
+<date>2015-09-10T23:03:04.580418Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/tgao6/Assignment1.0/Chess/src/ChessBoard/tests</path>
+<path
+   kind="dir"
+   action="D">/tgao6/Assignment1.0/Chess/src/ChessBoard/internals</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3397">
+<author>tgao6</author>
+<date>2015-09-10T22:50:39.489584Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessBoardTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3350">
+<author>tgao6</author>
+<date>2015-09-10T20:57:56.236270Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessSet.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/tests</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/tgao6/Assignment1.0/Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/ChessBoardTest.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/src/ChessBoard/internals</path>
+</paths>
+<msg>Commit at Coffee Bene</msg>
+</logentry>
+<logentry
+   revision="2784">
+<author>tgao6</author>
+<date>2015-09-04T21:48:41.772631Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/.project</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/src</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess/.settings</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment1.0/Chess/.classpath</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2783">
+<author>tgao6</author>
+<date>2015-09-04T21:48:35.594215Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0/Chess</path>
+</paths>
+<msg>Share project "Chess" into "https://subversion.ews.illinois.edu/svn/fa15-cs242/tgao6"</msg>
+</logentry>
+<logentry
+   revision="2782">
+<author>tgao6</author>
+<date>2015-09-04T21:44:36.244462Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment1.0</path>
+</paths>
+<msg>Adding Assign1.0 Folder</msg>
+</logentry>
+<logentry
+   revision="2426">
+<author>tgao6</author>
+<date>2015-09-03T22:21:43.454251Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox2.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-green.imageset/close-green.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web2.imageset/web2.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/templates/reddit/post.html</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-Small@2x.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-brown.imageset/close-brown.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/start.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc2.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/forum</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/swift.imageset/swift.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-pink.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/arms.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/beach-yellow.imageset/beach-yellow.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/illinois.imageset/illinois.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox3.imageset/articlebox3.jpg</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2014.imageset/2014.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox4.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc2.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/HobbyViewController.swift</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro2.imageset/foro2.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/circle.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/computer.imageset/computer.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc3.imageset/asc3.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/__init__.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/templates/reddit/base.html</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/1992.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-purple.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/arms.imageset/arms.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/life.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox4.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/illinois.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/EntryView.swift</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-purple.imageset/close-purple.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/seattle.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/beijing.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/future.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-white.imageset/close-white.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/background.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/xcuserdata/Mosaic.xcuserdatad</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox2.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2012.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/ABI.imageset/AbinBev-Eagle-287x300.jpg</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/life.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2011.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc4.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/ABI.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-blue.imageset/close-blue.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro4.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/MenuViewController.swift</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-76.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-green.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/america.imageset/america.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/tests.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox2.imageset/articlebox2.jpg</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/contents.xcworkspacedata</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/beijing.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu.imageset/menu.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/china.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu-white.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-white.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/background.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/art.imageset/art-3.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2005.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro2.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/aurora-green.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/swift.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-blue.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-red.imageset/close-red.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcschemes/Application.xcscheme</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/reddit/migrations/__pycache__</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/eoh.imageset/eoh.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/stand.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/reddit/templates</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2012.imageset/2012.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/eoh.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/LifeTableViewController.swift</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2014.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/balloon.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/project.pbxproj</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/circle.imageset/outer_circle.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-Small@3x.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro2.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/aurora-green.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/urls.py</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web2.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc1.imageset/asc1.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/seattle.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/start.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/arms.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcschemes</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/get_data.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/migrations/0002_auto_20150825_1858.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/ProjectCollectionViewCell.swift</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/SkillViewController.swift</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/beach-yellow.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-pink.imageset/close-pink.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web3.imageset/web3.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro4.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/self_button.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Base.lproj/LaunchScreen.xib</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-yellow.imageset/close-yellow.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web2.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-40@2x.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-60@2x.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox1.imageset/articlebox1.jpg</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/balloon.imageset/menu-baloon.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Base.lproj/Main.storyboard</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox1.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-Small.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/illinois.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2011.imageset/2011_round.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2015.imageset/2015.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/underwater-mag.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcschemes/xcschememanagement.plist</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2005.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/reddit/migrations</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc3.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/computer.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-brown.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc4.imageset/asc4.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/stand.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-pink.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/seattle.imageset/seattle.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-red.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGaoTests/TingtingGaoTests.swift</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-orange.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/manage.py</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc1.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Info.plist</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/1992.imageset/1992_round.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/stand.imageset/stand.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/balloon.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2014.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/xcuserdata</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro3.imageset/foro3.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/america.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/background.imageset/background.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu-white.imageset/menu-white.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-grey.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox3.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-76@2x.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/life.imageset/life-3.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/xcuserdata/Mosaic.xcuserdatad/WorkspaceSettings.xcsettings</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-blue.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/models.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc1.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/circus.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Base.lproj</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/templates/reddit/index.html</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/forum/__pycache__</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Application.ipa.zip</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web1.imageset/web1.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/mountain-blue.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2011.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/migrations/__init__.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox3.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/art.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-grey.imageset/close-gray.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/circus.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc3.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/project.xcworkspace/xcuserdata/Mosaic.xcuserdatad/UserInterfaceState.xcuserstate</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2012.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/migrations/0003_auto_20150901_2128.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/future.imageset/future.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro1.imageset/foro1.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-green.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/computer.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/1992.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Application.ipa</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-orange.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/mountain-blue.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro1.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/swift.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/america.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc2.imageset/asc2.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-40@3x.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-grey.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-60@3x.png</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/eoh.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-yellow.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/yahoo.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/underwater-mag.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox1.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/beijing.imageset/beijing.pdf</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/reddit/__pycache__</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-brown.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/AppIcon.appiconset/Icon-40.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro3.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web1.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/ABI.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/AppDelegate.swift</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/migrations/0001_initial.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-purple.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/mountain-blue.imageset/mountain-blue-1.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-red.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/yahoo.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Tingting Gao.ipa</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/circus.imageset/circus.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-white.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro3.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/art.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/forum/wsgi.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/aurora-green.imageset/aurora-green.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/start.imageset/start.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web3.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/china.imageset/china.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/ProjectCollectionViewController.swift</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/articlebox4.imageset/articlebox4.jpg</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/future.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2015.imageset</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/reddit/templates/reddit</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/self_button.imageset/self_button.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro1.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/asc4.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web3.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/admin.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-orange.imageset/close-orange.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/yahoo.imageset/yahoo.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/circle.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/forum/urls.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGaoTests/Info.plist</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/db.sqlite3</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/LifeTableViewCell.swift</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/beach-yellow.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/reddit</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/close-yellow.imageset/Contents.json</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/self_button.imageset</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2005.imageset/2005.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/forum/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGaoTests</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/forum/settings.py</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/forum/.idea</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/menu-white.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/underwater-mag.imageset/underwater-mag.png</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/china.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/2015.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/EntryViewController.swift</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/.idea/forum.iml</path>
+<path
+   kind="dir"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao.xcodeproj/xcuserdata/Mosaic.xcuserdatad/xcdebugger</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/web1.imageset/Contents.json</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/forum/reddit/views.py</path>
+<path
+   kind="file"
+   action="A">/tgao6/Assignment0/TingtingGao/TingtingGao/Images.xcassets/foro4.imageset/foro4.png</path>
+</paths>
+<msg>Add project</msg>
+</logentry>
+<logentry
+   revision="1370">
+<author>tgao6</author>
+<date>2015-08-31T00:50:22.489142Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/tgao6/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="M">/tgao6/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="M">/tgao6/HW0/.classpath</path>
+</paths>
+<msg>"Refactoring Practice"</msg>
+</logentry>
+<logentry
+   revision="1163">
+<author>tgao6</author>
+<date>2015-08-30T06:52:36.481457Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/HW0/src</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/doc/README</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/tgao6/HW0/doc</path>
+<path
+   kind="dir"
+   action="A">/tgao6/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/tgao6/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/javadoc.xml</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/tgao6/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/tgao6/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/tgao6/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>Initial Check-in</msg>
+</logentry>
+<logentry
+   revision="1162">
+<author>tgao6</author>
+<date>2015-08-30T06:52:14.974252Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/HW0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="687">
+<author>tgao6</author>
+<date>2015-08-28T03:55:36.190717Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="686">
+<author>tgao6</author>
+<date>2015-08-28T03:52:13.554975Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/tgao6/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="685">
+<author>tgao6</author>
+<date>2015-08-28T03:50:49.456247Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/tgao6/grocery/list2.txt</path>
+</paths>
+<msg>add more important veg</msg>
+</logentry>
+<logentry
+   revision="681">
+<author>tgao6</author>
+<date>2015-08-28T03:46:10.012227Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/tgao6/grocery/list2.txt</path>
+</paths>
+<msg>Delete a vegetable</msg>
+</logentry>
+<logentry
+   revision="679">
+<author>tgao6</author>
+<date>2015-08-28T03:43:54.859611Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/tgao6/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="677">
+<author>tgao6</author>
+<date>2015-08-28T03:41:38.492054Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/tgao6/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="676">
+<author>tgao6</author>
+<date>2015-08-28T03:39:55.141578Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/tgao6/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/tgao6/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/tgao6/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="675">
+<author>tgao6</author>
+<date>2015-08-28T03:38:39.390499Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/tgao6/grocery</path>
+</paths>
+<msg>hi</msg>
+</logentry>
+<logentry
+   revision="670">
+<author>tgao6</author>
+<date>2015-08-28T03:30:46.816562Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6/grocery/grocery</path>
+<path
+   kind="file"
+   action="A">/tgao6/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/tgao6/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/tgao6/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="171">
+<author>root</author>
+<date>2015-08-25T21:58:58.185190Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/tgao6</path>
+</paths>
+<msg>created directory tgao6</msg>
+</logentry>
+</log>
