@@ -1,20 +1,13 @@
 from django.db import models
 
 # Create your models here.
-class Project(models.Model):
-	title = models.CharField(max_length=50)
+class Comment(models.Model):
+	content = models.CharField(max_length=500)
 	date = models.DateTimeField()
-	version = models.CharField(max_length=20)
-	summary = models.CharField(max_length=200)
+	parent = models.ForeignKey('self', null=True)
+	image = models.CharField(max_length=200, null=True)
+	username = models.CharField(max_length=50, null=True)
+
 
 	def __str__(self):
-		return title + " , " + version
-
-class File(models.Model):
-	size = models.CharField(max_length=20)
-	file_type = models.CharField(max_length=20)
-	path = models.CharField(max_length=100)
-	number = models.IntegerField
-	author = models.CharField(max_length=20)
-	date = models.DateTimeField()
-	project = models.ForeignKey(Project)
+		return self.content

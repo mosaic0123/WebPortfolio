@@ -1,4 +1,30 @@
 import xml.etree.ElementTree as ET
+from random import randint
+
+bad_words = ["beeyotch", "biatch", "bitch", "chinaman", "chinamen", "chink", "crip", "cunt", "dago", "daygo", "dego", "dick",  "douchebag", "dyke", "fag", "fatass","fatso", "fuck", "gash", "gimp", "golliwog", "gook", "gyp",  "homo", "hooker",  "jap", "kike", "kraut", "lame", "lardass", "lesbo", "negro", "nigga", "nigger", "paki", "pussy", "raghead", "retard",    "shemale", "skank", "slut", "spic", "spook", "tard", "tits", "titt", "trannies", "tranny", "twat", "wetback", "whore", "wop"]
+image_links = ["https://www.dropbox.com/s/5e1stwwqmfhk4oa/Cat.png?raw=1", "https://www.dropbox.com/s/qyi8nl2qx4rk5wc/Cow.png?raw=1", "https://www.dropbox.com/s/hcktbevx049kiwx/Elephant.png?raw=1", "https://www.dropbox.com/s/jnaoc5epkh8s889/Fox.png?raw=1", "https://www.dropbox.com/s/8lq2660btjcagnq/Monkey.png?raw=1", "https://www.dropbox.com/s/jt5q6t42n0he672/Owl.png?raw=1", "https://www.dropbox.com/s/f4sahg3oyrnve7z/Sheep.png?raw=1"]
+adjectives = ["Beige", "Blue", "Brown", "Dark", "Emerald", "Sapphire", "Magenta", "Maroon", "Purple", "Violet", "Lavender", "Gold"]
+nouns = ["Apple", "Mango", "Watermelon", "Honeydew", "Pineapple", "Peach", "Plum", "Cherry", "Lychee"]
+
+def filter_comment(comment):
+	for i in bad_words:
+		if comment.find(i)!=-1:
+			comment = comment.replace(i, "---")
+		if comment.find(i.capitalize())!=-1:
+			comment = comment.replace(i.capitalize(), "---")
+		if comment.find(i.upper())!=-1:
+			comment = comment.replace(i.upper(), "---")
+	return comment
+
+def generate_profile_image():
+	index = randint(0, len(image_links)-1)
+	return image_links[index]
+
+def generate_username():
+	adj_index = randint(0, len(adjectives)-1)
+	noun_index = randint(0, len(nouns)-1)
+	return adjectives[adj_index] + " " + nouns[noun_index]
+	# return random.sample(adjectives,1)[0]+" "+random.sample(nouns,1)[0]
 
 def get_data():
 		# Parse 'svn_log.xml'

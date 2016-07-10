@@ -1,10 +1,34 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+from django.http import HttpResponse, HttpResponseRedirect
 from portfolio.utils import get_data
+from django.utils import timezone
+from portfolio.utils import generate_profile_image, generate_username, filter_comment
+from django.core.urlresolvers import reverse
+
+from .models import Comment
 
 # Create your views here.
 def index(request):
-	return render(request, 'portfolio/index.html')
+	comment_list = Comment.objects.filter(parent=None).order_by('date')
+	context = {'comment_list': comment_list}
+	return render(request, 'portfolio/index.html', context)
+
+def addcomment(request):
+	text = request.POST['newcomment']
+	c = Comment(content = filter_comment(text), date=timezone.now(), image = generate_profile_image(), username = generate_username())
+	c.save()
+	comment_list = Comment.objects.filter(parent=None).order_by('date')
+	context = {'comment_list': comment_list}
+	return HttpResponseRedirect(reverse('index'))
+	# return render(request, 'portfolio/index.html', context)
+
+def addchildcomment(request, comment_id):
+	text = request.POST['newchildcomment']
+	c = Comment(content = filter_comment(text), date=timezone.now(), image = generate_profile_image(), username = generate_username(), parent = Comment.objects.get(pk=comment_id))
+	c.save()
+	comment_list = Comment.objects.filter(parent=None).order_by('date')
+	context = {'comment_list': comment_list}
+	return HttpResponseRedirect(reverse('index'))
 
 def startproject(request):
 	project_data = get_data()

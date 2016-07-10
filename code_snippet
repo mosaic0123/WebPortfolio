@@ -1,0 +1,41 @@
+<ul class="media-list">
+  <li class="media">
+    <a class="media-left" href="#">
+      <img data-holder-rendered="true" src="..." style="width: 64px; height: 64px;" data-src="holder.js/64x64" alt="64x64">
+    </a>
+    <div class="media-body">
+      <h4 class="media-heading">Media heading 0</h4>
+      <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.</p>
+      <!-- Nested media object -->
+      <div class="media">
+        <a class="media-left" href="#">
+          <img data-holder-rendered="true" src="# width: 64px; height: 64px;" data-src="holder.js/64x64" alt="64x64">
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading">Nested media heading 1</h4>
+          Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+          <!-- Nested media object -->
+          <div class="media">
+            <a class="media-left" href="#">
+              <img data-holder-rendered="true" src="..." alt="64x64">
+            </a>
+            <div class="media-body">
+              <h4 class="media-heading">Nested media heading 2</h4>
+              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Nested media object -->
+      <div class="media">
+        <a class="media-left" href="#">
+          <img data-holder-rendered="true" src="..." style="width: 64px; height: 64px;" data-src="holder.js/64x64" alt="64x64">
+        </a>
+        <div class="media-body">
+          <h4 class="media-heading">Nested media heading 3</h4>
+          Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
